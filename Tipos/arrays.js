@@ -1,6 +1,6 @@
 // array é o mesmo que vetores
 // listas interáveis de elementos
-// index sempre começa com 0
+// índice sempre começa com 0
 
 let array = [];
 
